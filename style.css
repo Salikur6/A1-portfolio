@@ -69,8 +69,16 @@ a.explore-btn {
 
 /* Mission section */
 
+section#mission {
+    background-image: url(./images/shapes/dot3.png);
+    background-repeat: no-repeat;
+    background-size: 112px;
+    background-position: 95% 107%;
+}
+
 #mission {
-    margin-bottom: 150px;
+    margin-bottom: 50px;
+    padding-bottom: 80px;
 }
 
 .main-div {
@@ -122,11 +130,11 @@ h1.mission-head span {
 /* Development section */
 
 #develop-documentation {
-    background-image: url(./images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-size: 326px;
-    background-position: 5% 50%;
     margin-bottom: 150px;
+    background: url(./images/shapes/shape-1.png), url(./images/shapes/dot3.png) left bottom no-repeat;
+    background-size: 327px, 113px;
+    background-repeat: no-repeat;
+    background-position: 5% 50%, 3% 100%;
 }
 
 .coding-img {
