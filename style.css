@@ -12,7 +12,7 @@ a {
 
 h1 {
     font-size: 50px;
-    line-height: 42px;
+    line-height: 40px;
 }
 
 h1.red {
@@ -117,3 +117,49 @@ h1.mission-head span {
 
 
 /* End Mission section */
+
+
+/* Development section */
+
+#develop-documentation {
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 326px;
+    background-position: 5% 50%;
+    margin-bottom: 150px;
+}
+
+.coding-img {
+    width: 475px;
+}
+
+.develop-text-area {
+    margin-left: 40px;
+    padding-right: 100px;
+}
+
+.develop-text-area p {
+    line-height: 37px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: system-ui;
+    margin-bottom: 60px;
+}
+
+
+/* End Development section */
+
+
+/* Community section */
+
+#community {
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 142px;
+    background-position: 90% 97%;
+    margin-bottom: 110px;
+    padding-bottom: 64px;
+}
+
+
+/* End Community section */
