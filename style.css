@@ -163,3 +163,55 @@ h1.mission-head span {
 
 
 /* End Community section */
+
+
+/* Contact section */
+
+#contact {
+    background-color: #c9c9c9;
+}
+
+#contact h1 {
+    text-align: center;
+    padding-top: 55px;
+    font-size: 40px;
+}
+
+.contact-form {
+    margin: 80px 175px;
+}
+
+.design-input {
+    width: 500px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+textarea {
+    width: 500px;
+    border-radius: 10px;
+}
+
+a.explore-btn.sub-btn {
+    padding: 15px 35px;
+    display: block;
+    width: 60px;
+    margin: 20px 5px;
+}
+
+.contact-details {
+    width: 100%;
+    margin: 80px 125px;
+}
+
+.contact-details p {
+    color: blue;
+    margin-top: 50px;
+}
+
+.contact-details p span {
+    color: black;
+}
+
+
+/* End Contact section */
