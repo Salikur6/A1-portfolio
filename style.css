@@ -50,6 +50,8 @@ h1.red {
     width: 450px;
     line-height: 30px;
     margin: 40px 0px;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-weight: 600;
 }
 
 a.explore-btn {
@@ -63,3 +65,55 @@ a.explore-btn {
 
 
 /* End Heading section */
+
+
+/* Mission section */
+
+#mission {
+    margin-bottom: 150px;
+}
+
+.main-div {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.mission-card {
+    margin: 25px;
+    padding: 45px 28px;
+    border-radius: 15px;
+    padding-right: 40px;
+}
+
+.mission-card.card-1 {
+    background-color: #FFF4D6;
+}
+
+.mission-card.card-2 {
+    background-color: #EDF5F6;
+}
+
+.mission-card.card-3 {
+    background-color: #FFEEEE;
+}
+
+.mission-card p {
+    line-height: 30px;
+    font-weight: 500;
+    font-family: system-ui;
+}
+
+img.mission-img {
+    width: 150px;
+}
+
+h1.mission-head {
+    text-align: center;
+}
+
+h1.mission-head span {
+    color: #6d61cb;
+}
+
+
+/* End Mission section */
